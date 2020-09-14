@@ -1,7 +1,7 @@
 ## Ricardo Kuroiwa 
 Técnico em informatica para internet
 ### Sobre mim
-Sou  um {backend and frontend } developer e entusiasta em tecnologia ReactJS
+Sou  um {backend e frontend } developer e entusiasta em tecnologia ReactJS
 <!--
 **Ricardo-kuroiwa/Ricardo-kuroiwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
